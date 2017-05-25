@@ -3,7 +3,9 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover: This is my NCI Project: RunCommunity an online community for runners
+Things you may want to cover: 
+
+This is my NCI Project: RunCommunity an online community for runners 25.05.17
 
 * Ruby version ruby 2.3.0p0 (2015-12-25 revision 53290) [x86_64-linux]
 
